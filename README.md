@@ -73,3 +73,7 @@ When developing stages, it is helpful to be able to quickly iterate on ideas as 
 
 - (`F5`or `LB`) REPL mode. Clear all pending commands and load the lastest commands from the `repl/repl.stage` file.
 - (`F6` or `RB`) Dump logs. Immediately dump logs to the debugging.log file in app data directory without having to proceed to stage exit.
+
+## License and Usage
+
+The StageScript syntax, examples, and this manual are all provided under the MIT license. See the included LICENSE.md for details. StageScript was invented by the authors to create custom levels for The Battle of Aurinoxia, but you are free to use the syntax and derivatives in your own application, in accordance with the MIT license. If you do, we'd love to hear about it!
